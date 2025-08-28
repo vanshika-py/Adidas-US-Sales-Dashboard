@@ -1,0 +1,19 @@
+This project showcases an interactive Excel dashboard analyzing Adidas sales performance in the United States. The dashboard is designed to track key business metrics and provide actionable insights into sales trends.
+
+🔑 Key Features
+
+Sales analysis by region, state, and city
+
+Product-wise and retailer-wise performance insights
+
+KPIs including total revenue, profit, and units sold
+
+Dynamic charts, slicers, and pivot tables for easy exploration
+
+Simple, user-friendly design for quick decision-making
+
+🛠️ Tools Used
+
+Microsoft Excel – Dashboard creation, pivot tables, slicers, and charts
+
+Data Cleaning & Preparation – Performed within Excel
